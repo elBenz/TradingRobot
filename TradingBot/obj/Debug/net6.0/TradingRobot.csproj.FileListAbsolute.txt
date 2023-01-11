@@ -1,0 +1,17 @@
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/TradingRobot
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/TradingRobot.deps.json
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/TradingRobot.runtimeconfig.json
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/TradingRobot.dll
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/ref/TradingRobot.dll
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/TradingRobot.pdb
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/bin/Debug/net6.0/CSharpAPI.dll
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.csproj.AssemblyReference.cache
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.GeneratedMSBuildEditorConfig.editorconfig
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.AssemblyInfoInputs.cache
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.AssemblyInfo.cs
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.csproj.CoreCompileInputs.cache
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.csproj.CopyComplete
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.dll
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/ref/TradingRobot.dll
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.pdb
+/home/unkl_benz/Projects/NewSchoolCenter/TradingBot/obj/Debug/net6.0/TradingRobot.genruntimeconfig.cache
